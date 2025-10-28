@@ -30,7 +30,7 @@
       </td>
       <td width="50%" align="center" style="border: none;">
         <a href="https://github.com/devinpereira">
-          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devinpereira&theme=omni&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinpereira&theme=omni&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages"/>
         </a>
       </td>
     </tr>
