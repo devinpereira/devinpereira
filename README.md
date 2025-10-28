@@ -1,7 +1,8 @@
+<h1 align="center">Hey 👋What's Up? I'm Devin pereira</h1>
+
 <p align="center">
   <img src="https://i0.wp.com/www.dogwonder.co.uk/wp-content/uploads/2009/12/tumblr_ku2pvuJkJG1qz9qooo1_r1_400.gif?resize=320%2C320" alt="Coding GIF">
 </p>
-<h1 align="center">Hey 👋What's Up? I'm Devin pereira</h1>
 
 ###
 
